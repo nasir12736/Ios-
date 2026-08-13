@@ -4,7 +4,7 @@
 
   "users": {
 
-    "uid_836801": { "name": "TraderKing5k", "password": "TraderKing5k" },
+    "uid_848318": { "name": "Hulk-muzzi", "password": "TraderKing5k" },
     "uid_194418": { "name": "AlphaPro10", "password": "AlphaPro10$" },
     "uid_120003": { "name": "DubaiTrader7k", "password": "DubaiTrader7k" },
     "uid_120004": { "name": "PakBull20$", "password": "PakBull20$" },
